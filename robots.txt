@@ -22,7 +22,10 @@ Disallow: */&
 Disallow: /&
 Disallow: /?
 Disallow: /*?*
+Disallow: /slots/
+Disallow: /faq/
 Allow: /wp-content/uploads/
 Allow: *.css
 Allow: *.js
-Host: playzz-avtommatikk.azurewebsites.net
+
+Host: play-avtomatikk.azurewebsites.net
